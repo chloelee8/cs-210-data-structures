@@ -10,4 +10,4 @@ This repository contains coursework from **CS 210 – Data Structures** at UMass
 - Algorithmic problem solving
 
 ## Notes
-This course emphasizes fundamental data structures and algorithmic problem-solving, with a focus on efficiency, recursion, and analyzing time and space complexity.
+This course emphasizes fundamental data structures and algorithmic problem-solving, with a focus on efficiency, recursion, and analyzing time and space complexity in Java.

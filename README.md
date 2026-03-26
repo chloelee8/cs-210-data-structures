@@ -8,3 +8,6 @@ This repository contains coursework from **CS 210 – Data Structures** at UMass
 - Recursion
 - Time and space complexity
 - Algorithmic problem solving
+
+## Notes
+This course emphasizes fundamental data structures and algorithmic problem-solving, with a focus on efficiency, recursion, and analyzing time and space complexity.

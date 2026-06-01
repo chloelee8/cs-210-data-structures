@@ -1,4 +1,4 @@
-# Data Structures (CS 210)
+# Data Structures (CICS 210)
 
 This repository contains coursework from **CS 210 – Data Structures** at UMass Amherst.
 
